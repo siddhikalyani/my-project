@@ -1,4 +1,5 @@
-Student Registration Page
+##Student Registration Page
+
 A simple and responsive Student Registration Page built using HTML.
 This project is designed to collect student details in a clean and organized format.
 
